@@ -1,0 +1,7 @@
+{
+    "board": "arduino:avr:uno",
+    "programmer": "avrispmkii",
+    "port": "COM5",
+    "sketch": "bredbox-console.ino",
+    "output": "./build"
+}
