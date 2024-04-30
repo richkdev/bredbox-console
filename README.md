@@ -35,6 +35,7 @@ Minimum operating voltage = 5.4 V
 |GND|GND|
 
 |Arduino|Buzzer|
+|-|-|
 |7|+|
 |GND|GND|
 
